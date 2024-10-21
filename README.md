@@ -1,16 +1,7 @@
-### My Name is Amber Song👋
+### 안녕하세요. Amber Song입니다👋
+<br>
+저는 게임 개발자입니다. 한국에 거주하고 있으며 게임을 매우 사랑하고 있습니다.<br>
+게임 개발에 대한 다양한 지식과 경험을 쌓는것이 제 목표입니다.<br>
+그리고 많은 사람들과 만나면서 귀중한 경험을 얻으면서 좀 더 좋은 게임을 만들 수 있는 세상이 되는것을 원합니다.<br>
 
-<!--
-**lowtek7/lowtek7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on Gaee  Development
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...ss
--->
+<b>Email : lowtek7@gmail.com</b>
