@@ -1,6 +1,6 @@
 ### Hello World! I am Amber Song👋
 <br>
-Gameplay Programmer
-Game System Engineer
-Technical Engineer
+Gameplay Programmer<br>
+Game System Engineer<br>
+Technical Engineer<br>
 <b>Email : lowtek7@gmail.com</b>
